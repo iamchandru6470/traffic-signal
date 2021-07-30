@@ -1,7 +1,32 @@
-.App {
+
+
+body {
+  background-color: lightskyblue;
+  margin: 30px;
+}
+
+.root {
+  display: flex;
+  justify-content: center;
   text-align: center;
 }
 
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.stand {
+  height: 300px;
+  width: 10px;
+  background-color: black;
+}
+
+.standWrapper {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

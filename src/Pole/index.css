@@ -1,0 +1,9 @@
+.pole {
+  background-color: black;
+  min-height: 400px;
+  width: max-content;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

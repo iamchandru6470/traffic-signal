@@ -1,0 +1,15 @@
+.timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  height: 75px;
+  background-color: darkgray;
+  border: 1px solid whitesmoke;
+}
+
+.timer-font {
+  font-family: "MyFont";
+  color: red;
+  font-size: 65px;
+}
